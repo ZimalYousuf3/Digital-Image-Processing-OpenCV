@@ -6,12 +6,6 @@ A beginner-friendly Digital Image Processing practical that covers the core oper
 
 To understand how a digital image is stored as an array of pixels and to perform basic operations on it.
 
-## Input Image
-
-This image is used in the notebook (`image.jpg`, 1200 x 676 pixels).
-
-![Input Image](image.jpg)
-
 ## Tasks Covered
 
 | Step | Task | OpenCV / NumPy Function |
@@ -42,7 +36,7 @@ This image is used in the notebook (`image.jpg`, 1200 x 676 pixels).
 |-----------|--------|
 | Original image size | 676 x 1200 pixels, 3 channels |
 | Average brightness | 63.53 (a fairly dark image) |
-| Resized image | Half of the original size (338 x 600) |
+| Resized image | Half of the original size |
 
 ## Tools Used
 
@@ -51,21 +45,19 @@ This image is used in the notebook (`image.jpg`, 1200 x 676 pixels).
 - NumPy
 - Google Colab
 
-## Files in This Folder
-
-| File | Description |
-|------|-------------|
-| `01_Image_Basics_and_Transformations.ipynb` | Main notebook with code and outputs |
-| `image.jpg` | Sample input image used in the notebook |
-| `README.md` | Description of this practical |
-
 ## How to Run
 
-1. Download `image.jpg` from this folder to your computer.
-2. Open `01_Image_Basics_and_Transformations.ipynb` in Google Colab.
-3. Run the cells one by one from top to bottom.
-4. When asked to upload an image, select `image.jpg` (or any image of your choice).
-5. View the outputs below each cell.
+1. Open `01_Image_Basics_and_Transformations.ipynb` in Google Colab.
+2. Run the cells one by one from top to bottom.
+3. When asked, upload any image from your computer.
+4. View the outputs below each cell.
+
+## Files
+
+```
+├── 01_Image_Basics_and_Transformations.ipynb   # Main notebook
+├── README.md                                   # Lab description
+```
 
 ## What I Learned
 
