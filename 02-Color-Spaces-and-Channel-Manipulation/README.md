@@ -42,7 +42,7 @@ Understand how color images are stored and practise working with the BGR, RGB, H
 02-Color-Spaces-and-Channel-Manipulation/
     02_Color_Spaces_and_Channel_Manipulation.ipynb
     README.md
-    image.jpg
+    kitchen.jpg
 ```
 
 ## How to Run
